@@ -9,7 +9,7 @@ Welcome to **HarshithaC-TheNextStep**, where I share my journey of continuous le
 - 🛠️ Tools: VS Code, PyCharm, Jupyter Notebook, Power BI, MySQL.
 
 ## 🌟 Current Step: Building, Learning, and Evolving
-- 🏗️ Worked on projects like the **Photo Album App** and **Event Countdown App** using Django.
+- 🏗️ Working on projects like the **Photo Album App** using Django and the **Event Countdown App** using HTML, CSS, and JavaScript.
 - 🌍 Expanding my knowledge base with new tools and frameworks.
 - 🎯 **Next Goal**: Becoming confident in independent coding and mastering new technologies like ML and Data Analytics.
 
@@ -24,5 +24,3 @@ Welcome to **HarshithaC-TheNextStep**, where I share my journey of continuous le
 ---
 
 I believe that each new step is an opportunity to grow, to learn, and to get closer to my goals. Follow my journey and see where the next step takes me! 🚀
-
-
